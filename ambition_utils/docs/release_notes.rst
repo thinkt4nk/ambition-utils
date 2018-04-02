@@ -1,6 +1,10 @@
 Release Notes
 =============
 
+0.2.0
+-----
+* Moving recurrence task to ambition project
+
 0.1.2
 -----
 * Do not modify the same dict while iterating
